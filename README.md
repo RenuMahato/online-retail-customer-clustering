@@ -36,5 +36,5 @@ Online Retail Dataset : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 ## Author
 
-Renu Mahato | [GitHub](https://github.com/<your-username>) | [LinkedIn](<your-linkedin-url>)
+Renu Mahato | [GitHub](https://github.com/RenuMahato) | [LinkedIn](<www.linkedin.com/in/renu-kumari-84414a387>)
 
